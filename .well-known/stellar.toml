@@ -1,26 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3",
+"GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Revolut"
-ORG_URL="https://www.revolut-stellar.com/"
+ORG_NAME="Qiddiya"
+ORG_URL="https://www.qiddiya-stellar.org/"
 ORG_DESCRIPTION="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-ORG_LOGO="https://www.revolut-stellar.com/rev.png"
+ORG_LOGO="https://www.qiddiya-stellar.org/qid.png"
 
 
 [[CURRENCIES]]
-code="REVOLUT"
+code="Qiddiya"
 status="live"
 display_decimals=2
-issuer="GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3"
+issuer="GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435"
 anchor_asset_type="crypto"
-name="REVOLUT"
-desc="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-image="https://www.revolut-stellar.com/rev.png"
-fixed_number=250000000
-max_number=250000000
+name="Qiddiya"
+desc="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
+image="https://www.qiddiya-stellar.org/qid.png"
+fixed_number=100000000
+max_number=100000000
 is_unlimited=false
-#Revolut Token was issued using the open and inclusive Stellar blockchain network.
+#Qiddiya Token was issued using the open and inclusive Stellar blockchain network.
