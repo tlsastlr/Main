@@ -2,6 +2,7 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
+"GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
 ]
 
 [DOCUMENTATION]
@@ -24,3 +25,17 @@ fixed_number=100000000
 max_number=100000000
 is_unlimited=false
 #Qiddiya Token was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="QCP"
+status="live"
+display_decimals=2
+issuer="GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N"
+anchor_asset_type="crypto"
+name="Qiddiya City Pass"
+desc="Qiddiya City Pass will blow your mind and bring up to a new level of entertainment"
+image="https://www.qiddiya-stellar.org/qid.png"
+fixed_number=5000000
+max_number=5000000
+is_unlimited=false
+#Qiddiya City Pass was issued using the open and inclusive Stellar blockchain network.
