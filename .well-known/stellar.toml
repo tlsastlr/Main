@@ -3,6 +3,7 @@ VERSION="2.2.1"
 ACCOUNTS=[
 "GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
 "GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
+"GCRVRJDVFV33FSO352R7HJSR2FWFGFENILT2W6FZY6LNXBWW7TLBLBQS",
 ]
 
 [DOCUMENTATION]
@@ -24,7 +25,7 @@ image="https://www.qiddiya-stellar.org/qid.png"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
-#Qiddiya Token was issued using the open and inclusive Stellar blockchain network.
+#Qiddiya Token was issued using the Stellar Blockchain network.
 
 [[CURRENCIES]]
 code="QCP"
@@ -38,4 +39,18 @@ image="https://www.qiddiya-stellar.org/qid2.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#Qiddiya City Pass was issued using the open and inclusive Stellar blockchain network.
+#Qiddiya City Pass was issued using the Stellar Blockchain network.
+
+[[CURRENCIES]]
+code="QEstate"
+status="live"
+display_decimals=7
+issuer="GCRVRJDVFV33FSO352R7HJSR2FWFGFENILT2W6FZY6LNXBWW7TLBLBQS"
+anchor_asset_type="Real Estate"
+name="Qiddiya Real Estate"
+desc="Qiddiya Real Estate Asset "
+image="https://www.qiddiya-stellar.org/qes.png"
+fixed_number=10000000000
+max_number=10000000000
+is_unlimited=false
+#Qiddiya Real Estate was issued using the Stellar Blockchain network.
