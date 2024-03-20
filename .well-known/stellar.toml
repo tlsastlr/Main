@@ -4,6 +4,7 @@ ACCOUNTS=[
 "GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
 "GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
 "GCRVRJDVFV33FSO352R7HJSR2FWFGFENILT2W6FZY6LNXBWW7TLBLBQS",
+"GANVNMMN2RCAQJKYXV4YWVCD76E2HSP5LN7O44JCP3M7P45GWSFCBGKD",
 ]
 
 [DOCUMENTATION]
@@ -54,3 +55,17 @@ fixed_number=10000000000
 max_number=10000000000
 is_unlimited=false
 #Qiddiya Real Estate was issued using the Stellar Blockchain network.
+
+[[CURRENCIES]]
+code="QF1"
+status="live"
+display_decimals=7
+issuer="GANVNMMN2RCAQJKYXV4YWVCD76E2HSP5LN7O44JCP3M7P45GWSFCBGKD"
+anchor_asset_type="crypto"
+name="Qiddiya Formula 1"
+desc="The new Speed Park in Qiddiya, the F1 Track, a purpose-built project as part of the Saudi Vision 2030 initiative."
+image="https://www.qiddiya-stellar.org/qf1.png"
+fixed_number=100000000
+max_number=100000000
+is_unlimited=false
+#Qiddiya F1 was issued using the Stellar Blockchain network.
