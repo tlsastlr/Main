@@ -1,71 +1,22 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435",
-"GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N",
-"GCRVRJDVFV33FSO352R7HJSR2FWFGFENILT2W6FZY6LNXBWW7TLBLBQS",
-"GANVNMMN2RCAQJKYXV4YWVCD76E2HSP5LN7O44JCP3M7P45GWSFCBGKD",
+"GBP5HMPKRZPAELNZG63ZNEGZZXTXUT6AMCRSX3TMKVIMT4E7ICR2W7UB",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Qiddiya"
-ORG_URL="https://www.qiddiya-stellar.org/"
-ORG_DESCRIPTION="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-ORG_LOGO="https://www.qiddiya-stellar.org/qid.png"
+ORG_NAME="Telosa"
+ORG_URL="https://www.telosa-stellar.com/"
+ORG_DESCRIPTION="Telosa is a proposed utopian planned US city conceived by American billionaire Marc Lore and announced in September 2021. The project has a target population of 5 million people by 2050, with the first phase of construction expected to house 50,000."
+ORG_LOGO="https://www.telosa-stellar.com/tls.png"
 
 
 [[CURRENCIES]]
-code="Qiddiya"
+code="Telosa"
 status="live"
 display_decimals=2
-issuer="GALMX54RO5UV7VK5YCKUY5SLIQYFINPXG3BS64D4RAXZ3IHPSSVEO435"
+issuer="GBP5HMPKRZPAELNZG63ZNEGZZXTXUT6AMCRSX3TMKVIMT4E7ICR2W7UB"
 anchor_asset_type="crypto"
-name="Qiddiya"
-desc="QIDDIYA UNVEILS WORLD’S FIRST GAMING & ESPORTS DISTRICT on Stellar Blockchain"
-image="https://www.qiddiya-stellar.org/qid.png"
-fixed_number=100000000
-max_number=100000000
-is_unlimited=false
-#Qiddiya Token was issued using the Stellar Blockchain network.
-
-[[CURRENCIES]]
-code="QCP"
-status="live"
-display_decimals=2
-issuer="GCD5DFSHXVQ7LUV3OLFXOGTO7RAZCPWRMEYJRV4CFFIKNAR3FR7LUB5N"
-anchor_asset_type="crypto"
-name="Qiddiya City Pass"
-desc="Qiddiya City Pass will blow your mind and bring up to a new level of entertainment"
-image="https://www.qiddiya-stellar.org/qid2.png"
-fixed_number=5000000
-max_number=5000000
-is_unlimited=false
-#Qiddiya City Pass was issued using the Stellar Blockchain network.
-
-[[CURRENCIES]]
-code="QEstate"
-status="live"
-display_decimals=7
-issuer="GCRVRJDVFV33FSO352R7HJSR2FWFGFENILT2W6FZY6LNXBWW7TLBLBQS"
-anchor_asset_type="crypto"
-name="Qiddiya Real Estate"
-desc="Qiddiya Real Estate Asset will grow up your portfolio exponentially. Real Estate is growing in price every year and this asset is anchored by Real Estate."
-image="https://www.qiddiya-stellar.org/qes.png"
-fixed_number=10000000000
-max_number=10000000000
-is_unlimited=false
-#Qiddiya Real Estate was issued using the Stellar Blockchain network.
-
-[[CURRENCIES]]
-code="QF1"
-status="live"
-display_decimals=7
-issuer="GANVNMMN2RCAQJKYXV4YWVCD76E2HSP5LN7O44JCP3M7P45GWSFCBGKD"
-anchor_asset_type="crypto"
-name="Qiddiya Formula 1"
-desc="The new Speed Park in Qiddiya, the F1 Track, a purpose-built project as part of the Saudi Vision 2030 initiative."
-image="https://www.qiddiya-stellar.org/qf1.png"
-fixed_number=100000000
-max_number=100000000
-is_unlimited=false
-#Qiddiya F1 was issued using the Stellar Blockchain network.
+name="Telosa City"
+desc="Telosa is a proposed utopian planned US city conceived by American billionaire Marc Lore and announced in September 2021."
+image="https://www.telosa-stellar.com/tls.png"
